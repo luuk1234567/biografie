@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:black;
+    color: white;
+}
+.container{
+    text-align: center;
+}
+.containerimage{
+    background-color:white;
+
+}
+
+.biografie{
+    text-align: left;
+    width: 40%;
+    padding-left: 30%;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+}
+
+.head-text{
+    padding-left: 30%;
+    text-align: left;
+}
